@@ -1,5 +1,4 @@
 #include "git-compat-util.h"
-#include "abspath.h"
 #include "advice.h"
 #include "gettext.h"
 #include "hook.h"
